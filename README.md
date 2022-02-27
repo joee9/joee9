@@ -1,18 +1,10 @@
-### @joee9
+A student at the College of the Holy Cross, studying physics and computer science. 
 
+See my pinned repositories:
+- spotifystats: A program to keep you updated on your daily, monthly, and yearly Spotify listening history.
+- hydrodynamics: Hydrodynamical simulation of a neutron star; additional files for plotting, analysis, etc.
+- cryptoanalysis: Three programs for decryption, encryption, and analysis of Vigenere and LFSR ciphers.
+- assembler: A brief, barebones MIPS Assembler.
 
-<!---
-- 👋 Hi, I’m @joee9
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...j
-I am currently working on a summer research project in theoretical physics, where using numerical methods, I simulate in python the evolution of neutron stars.
-
-
-joee9/joee9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-This is a test. I want to see commit, etc. from working copy.
---->
+Please reach out via email with any questions, comments, or inquiries!
 [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joee9&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
