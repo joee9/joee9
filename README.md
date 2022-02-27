@@ -7,4 +7,5 @@ See my pinned repositories:
 - assembler: A brief, barebones MIPS Assembler.
 
 Please reach out via email with any questions, comments, or inquiries!
+
 [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joee9&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
