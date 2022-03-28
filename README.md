@@ -3,7 +3,7 @@ A student at the College of the Holy Cross, studying physics and computer scienc
 See my pinned repositories:
 - spotifystats: A program to keep you updated on your daily, monthly, and yearly Spotify listening history.
 - hydrodynamics: Hydrodynamical simulation of a neutron star; additional files for plotting, analysis, etc.
-- cryptoanalysis: Three programs for decryption, encryption, and analysis of Vigenere and LFSR ciphers.
+- cryptanalysis: Three programs for decryption, encryption, and analysis of Vigenere and LFSR ciphers.
 - assembler: A brief, barebones MIPS Assembler.
 
 Please reach out with any questions, comments, or inquiries!
