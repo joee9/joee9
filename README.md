@@ -9,4 +9,4 @@ See my pinned repositories:
 Please reach out with any questions, comments, or inquiries!
 
 [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joee9&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joee9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joee9)](https://github.com/anuraghazra/github-readme-stats)
